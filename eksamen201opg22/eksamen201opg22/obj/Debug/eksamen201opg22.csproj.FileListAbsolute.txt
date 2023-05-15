@@ -1,0 +1,8 @@
+C:\Users\marcu\OneDrive\Documents\1semesterprojekt\eksamen201opg22\eksamen201opg22\bin\Debug\eksamen201opg22.exe.config
+C:\Users\marcu\OneDrive\Documents\1semesterprojekt\eksamen201opg22\eksamen201opg22\bin\Debug\eksamen201opg22.exe
+C:\Users\marcu\OneDrive\Documents\1semesterprojekt\eksamen201opg22\eksamen201opg22\bin\Debug\eksamen201opg22.pdb
+C:\Users\marcu\OneDrive\Documents\1semesterprojekt\eksamen201opg22\eksamen201opg22\obj\Debug\eksamen201opg22.csproj.AssemblyReference.cache
+C:\Users\marcu\OneDrive\Documents\1semesterprojekt\eksamen201opg22\eksamen201opg22\obj\Debug\eksamen201opg22.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcu\OneDrive\Documents\1semesterprojekt\eksamen201opg22\eksamen201opg22\obj\Debug\eksamen201opg22.csproj.CoreCompileInputs.cache
+C:\Users\marcu\OneDrive\Documents\1semesterprojekt\eksamen201opg22\eksamen201opg22\obj\Debug\eksamen201opg22.exe
+C:\Users\marcu\OneDrive\Documents\1semesterprojekt\eksamen201opg22\eksamen201opg22\obj\Debug\eksamen201opg22.pdb
